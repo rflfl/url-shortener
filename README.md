@@ -1,9 +1,9 @@
 # url-shortener
 A simple URL shortener
 
-##Technologies
+## Technologies
 
-*Node.js
-*Typescript
-*MongoDB
+* Node.js
+* Typescript
+* MongoDB
 
